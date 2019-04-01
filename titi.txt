@@ -1,2 +1,11 @@
+<<<<<<< HEAD
 Ceci est fichier txt
 une formation c++ 
+=======
+Non c'est un fichier titi
+ah 
+ah 
+ah
+ah
+
+>>>>>>> 3f9b1486047d1d4fcd348326a680343e5a740ed8
