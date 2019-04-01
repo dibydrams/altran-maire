@@ -1,2 +1,2 @@
 pour modifier les caracteres d'une lettre
-selectionner la lettre puis selectionner la famille de cacactere
+selectionner la lettre puis selectionner la famille de police de cacactere
