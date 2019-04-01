@@ -1,6 +1,6 @@
 1) Git status
 
-2) Git add <fichier> ou Git add . 
+2) Git add fichier ou Git add . 
 
 3) Git commit -m "Message"
 
