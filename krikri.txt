@@ -1,2 +1,6 @@
 pour modifier les caracteres d'une lettre
-charles henri
+
+selectionner la lettre puis selectionner la famille de police de cacactere
+
+
+
