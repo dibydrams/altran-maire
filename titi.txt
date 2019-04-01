@@ -1,15 +1,6 @@
-<<<<<<< HEAD
-Ceci est fichier txt
-une formation c-- 
-=======
-Non c'est un fichier titi
 ah 
 ah 
 ah
 ah
 
-<<<<<<< HEAD
->>>>>>> 3f9b1486047d1d4fcd348326a680343e5a740ed8
-=======
 ah oh
->>>>>>> 60cac924541562269d25fda265fbae0e58fdbe79

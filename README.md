@@ -1,4 +1,6 @@
-Principal :
+# Lisez-moi ! 🤓
+
+## Principal :
 
 1) Git status
 
@@ -12,8 +14,11 @@ Principal :
 
 
 
-Autre :
+## Autres :
 
 1) Git rm file1 file2 etc
 
 2) Git fetch
+
+3) Si vous écrivez en MarkDown dans votre message de commit,
+les emotes apparaissent !
