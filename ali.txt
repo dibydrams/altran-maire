@@ -1,8 +1,11 @@
+Pas de dollar.
+
 Ceci n'est pas un fichier.
 
-JE SUIS DESOLE MAIS SI C'EST UN FICHIER !
+JE SUIS DÉSOLÉ MAIS SI C'EST UN FICHIER ! 😅
 
 Super fichier !
+
 
 donc voilà je fou le del pour créer un conflit;
 j'éspère juste que cela fera suffisament de ligne;
@@ -11,4 +14,9 @@ non ?
 qué t'en penses ?!
 
 qué t'en penses ?!
+
+
+Hello World
+
+Hello Maman
 
