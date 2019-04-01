@@ -1,6 +1,6 @@
-# Lisez-moi !
+# Lisez-moi ! 🤓
 
-Principal :
+## Principal :
 
 1) Git status
 
@@ -14,7 +14,7 @@ Principal :
 
 
 
-Autre :
+## Autres :
 
 1) Git rm file1 file2 etc
 
